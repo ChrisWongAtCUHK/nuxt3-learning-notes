@@ -22,3 +22,4 @@ npx nuxi@latest module add tailwindcss
 - [[Day 14] Nuxt 3 Server API 與 Nitro Engine](https://ithelp.ithome.com.tw/articles/10301197)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
+## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
