@@ -12,3 +12,4 @@ npx nuxi add component <component-name>
 - [[Day 05] Nuxt 3 如何使用 Tailwind CSS](https://ithelp.ithome.com.tw/articles/10294705)
 - [[Day 08] Nuxt 3 布局模板 (Layouts)](https://ithelp.ithome.com.tw/articles/10296877)
 - [[Day 09] Nuxt 3 元件 (Components)](https://ithelp.ithome.com.tw/articles/10297495)
+- [[Day 11] Nuxt 3 插件 (Plugins)](https://ithelp.ithome.com.tw/articles/10299002)
