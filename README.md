@@ -23,6 +23,7 @@ npx nuxi@latest module add tailwindcss
 - [[Day 15] Nuxt 3 資料獲取 (Data Fetching)](https://ithelp.ithome.com.tw/articles/10301876)
 - [[Day 16] Nuxt 3 狀態管理 (State Management)](https://ithelp.ithome.com.tw/articles/10302323)
 - [[Day 17] Nuxt 3 狀態管理 - Store & Pinia](https://ithelp.ithome.com.tw/articles/10302381)
+- [[Day 18] Nuxt 3 Runtime Config & App Config](https://ithelp.ithome.com.tw/articles/10303583)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
