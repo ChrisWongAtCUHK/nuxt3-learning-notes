@@ -19,4 +19,4 @@ npx nuxi@latest module add tailwindcss
 - [[Day 09] Nuxt 3 元件 (Components)](https://ithelp.ithome.com.tw/articles/10297495)
 - [[Day 11] Nuxt 3 插件 (Plugins)](https://ithelp.ithome.com.tw/articles/10299002)
 - [[Day 13] Nuxt 3 中間件目錄 (Middleware Directory)](https://ithelp.ithome.com.tw/articles/10300290)
-- 
+- [[Day 14] Nuxt 3 Server API 與 Nitro Engine](https://ithelp.ithome.com.tw/articles/10301197)
