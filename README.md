@@ -27,6 +27,7 @@ npx nuxi@latest module add tailwindcss
 - [[Day 19] Nuxt 3 串接 Google OAuth 登入](https://ithelp.ithome.com.tw/articles/10304148)
 - [[Day 20] Nuxt 3 Cookie 的設置與 JWT 的搭配](https://ithelp.ithome.com.tw/articles/10304667)
 - [[Day 21] Nuxt 3 實作部落格 - 資料庫與會員系統](https://ithelp.ithome.com.tw/articles/10304993)
+- [[Day 22] Nuxt 3 實作部落格 - 導覽列模板與新增文章](https://ithelp.ithome.com.tw/articles/10305716)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
