@@ -35,6 +35,7 @@ npx nuxi@latest module add tailwindcss
 - [[Day 27] Nuxt 3 測試 (Testing) 與錯誤處理 (Error handling)](https://ithelp.ithome.com.tw/articles/10308008)
 - [[Day 28] Nuxt 3 渲染模式 (Rendering modes) 與網站使用體驗核心指標 (Core Web Vitals)](https://ithelp.ithome.com.tw/articles/10308381)
 - [[Day 29] Nuxt 3 發布網站前的建構打包 (Build) 與靜態網站生成 (Static Site Generation)](https://ithelp.ithome.com.tw/articles/10308556)
+- [[Day 30] Nuxt 3 就剩最後一步了 - 部署 (Deployment)](https://ithelp.ithome.com.tw/articles/10308825)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
