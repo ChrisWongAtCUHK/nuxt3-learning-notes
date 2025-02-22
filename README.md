@@ -31,6 +31,7 @@ npx nuxi@latest module add tailwindcss
 - [[Day 23] Nuxt 3 實作部落格 - 頁面的導航守衛與切換效果](https://ithelp.ithome.com.tw/articles/10306237)
 - [[Day 24] Nuxt 3 搜尋引擎最佳化 (SEO) 與 HTML Meta Tag](https://ithelp.ithome.com.tw/articles/10306669)
 - [[Day 25] Nuxt 3 邁向國際化 - 使用 Nuxt I18n 實作多國語系](https://ithelp.ithome.com.tw/articles/10307093)
+- [[Day 26] Nuxt 3 Public 與 Assets 資源目錄](https://ithelp.ithome.com.tw/articles/10307570)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
