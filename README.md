@@ -33,6 +33,7 @@ npx nuxi@latest module add tailwindcss
 - [[Day 25] Nuxt 3 邁向國際化 - 使用 Nuxt I18n 實作多國語系](https://ithelp.ithome.com.tw/articles/10307093)
 - [[Day 26] Nuxt 3 Public 與 Assets 資源目錄](https://ithelp.ithome.com.tw/articles/10307570)
 - [[Day 27] Nuxt 3 測試 (Testing) 與錯誤處理 (Error handling)](https://ithelp.ithome.com.tw/articles/10308008)
+- [[Day 28] Nuxt 3 渲染模式 (Rendering modes) 與網站使用體驗核心指標 (Core Web Vitals)](https://ithelp.ithome.com.tw/articles/10308381)
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
