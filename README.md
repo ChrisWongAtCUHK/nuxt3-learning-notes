@@ -41,6 +41,8 @@ npx nuxi@latest module add tailwindcss
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
 
 ## [2024 Nuxt 直播班](https://hackmd.io/@hexschool?tags=%5B%222024+Nuxt+%E7%9B%B4%E6%92%AD%E7%8F%AD%22%5D)
+- [Day 19 - Nuxt3 狀態管理 - Pinia - ( 1 )](https://hackmd.io/@hexschool/ByvYvv3byx)
+- [Day 20 - Nuxt3 狀態管理 - Pinia - ( 2 )](https://hackmd.io/@hexschool/Bk95Pvh-kg)
 - [Day 21 - VeeValidate 表單驗證套件運用](https://hackmd.io/@hexschool/r1ajPD2bJl)
 - [Day 22 - Swiper 輪播套件運用](https://hackmd.io/@hexschool/B1ypDPnb1l)
 - [Day 23 - VCalendar 套件運用](https://hackmd.io/@hexschool/ByeCDvn-Jl)
