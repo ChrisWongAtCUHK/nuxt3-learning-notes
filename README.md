@@ -39,3 +39,6 @@ npx nuxi@latest module add tailwindcss
 
 ## [Nuxt3 创建和使用与 Mysql 数据库交互的接口](https://juejin.cn/post/7427141349483593755)
 ## [Nuxt3 application: how to host the api part?](https://stackoverflow.com/questions/77618009/nuxt3-application-how-to-host-the-api-part)
+
+## [2024 Nuxt 直播班](https://hackmd.io/@hexschool?tags=%5B%222024+Nuxt+%E7%9B%B4%E6%92%AD%E7%8F%AD%22%5D)
+- [Day 23 - VCalendar 套件運用](https://hackmd.io/@hexschool/ByeCDvn-Jl)
